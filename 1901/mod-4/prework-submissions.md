@@ -119,8 +119,8 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 ## Raechel Odom
 
 * [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Annotated Express server file](https://github.com/raechelo/Trapper-Keeper-Annotations)
+* [Promise Practice Exercises](https://repl.it/@raechelo/promise-practice)
 
 ## Ryan Barnett
 
